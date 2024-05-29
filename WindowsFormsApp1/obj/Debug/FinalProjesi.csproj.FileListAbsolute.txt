@@ -1,0 +1,11 @@
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FinalProjesi.csproj.AssemblyReference.cache
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FinalProjesi.csproj.GenerateResource.cache
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FinalProjesi.frmKitaplik.resources
+C:\Users\Vu4ll\Desktop\FinalProjesiV2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kutuphane.accdb
